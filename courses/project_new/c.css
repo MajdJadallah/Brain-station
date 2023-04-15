@@ -1,0 +1,28 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  gap: 10px;
+  overflow-x: scroll;
+  scroll-behavior: smooth;
+  height: 20rem;
+}
+
+.card {
+  width: 300px;
+  height: 100%;
+  transition: transform 0.5s ease-out;
+}
+
+.card:hover {
+  transform: scale(1.05);
+}
+.Ellipse {
+  box-sizing: border-box;
+
+  position: absolute;
+  width: 67px;
+  height: 67px;
+  border-radius: 50%;
+  border: 1px solid #000000;
+}
