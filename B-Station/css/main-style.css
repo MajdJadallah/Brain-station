@@ -411,6 +411,7 @@ a {
 
 .students-opinions .title {
     font-size: 1.7rem;
+    margin-left: 1rem;
 }
 
 .students-opinions .sub-title {
@@ -418,6 +419,7 @@ a {
     font-size: 0.9rem;
     color: #979797;
     width: 60%;
+    margin-left: 1rem;
 
 }
 
@@ -474,6 +476,9 @@ a {
 
 .opinions .comment {
     height: 12rem;
+    line-height: 2rem;
+    font-size: 12px;
+    margin-top: 2rem;
 }
 
 .name-rate {
@@ -677,6 +682,10 @@ a {
         margin: 50px 20px;
     }
 
+    .courses .cards {
+        gap: 10vw;
+    }
+
     .courses .title {
         font-size: 1.4rem;
     }
@@ -720,6 +729,15 @@ a {
 
     .cards p {
         font-size: 0.7rem;
+    }
+
+    .users,
+    .rating,
+    .price {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-right: 8px;
     }
 
     .bottom-card .users img,
@@ -964,3 +982,15 @@ footer.top {
 }
 
 /* Medium Screens */
+
+
+.number-pages{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+.number-pages div{
+    margin-right: 20px;
+    font-size: 20px;
+}

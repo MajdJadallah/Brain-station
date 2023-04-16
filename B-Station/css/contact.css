@@ -8,9 +8,10 @@
 }
 
 .sub-title {
-    font-size: 16px;
     margin: 30px 0;
-    line-height: 1.6rem;
+    line-height: 2rem;
+    text-align: justify;
+    margin-bottom: 4rem;
 }
 
 .phone,
@@ -61,6 +62,7 @@
 label {
     font-size: 15px;
     padding: 10px 0;
+    font-weight: 600;
 }
 
 input {
