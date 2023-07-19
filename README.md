@@ -1,5 +1,5 @@
 **Brain-Station - Unlock Your Coding Potential**
-
+![Coding Image](assets/images/Online learning-cuate.svg)
 **Project:**
 
 Think big and dream even bigger with Brain-Station - your premier online coding school. We provide aspiring developers with the comprehensive education they need to thrive in the world of coding. Brain-Station serves as a bridge, connecting developers with the latest technologies and offering a full-stack curriculum to guide them from zero to full-stack proficiency.
