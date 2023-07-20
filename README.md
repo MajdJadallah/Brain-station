@@ -1,5 +1,5 @@
 **Brain-Station - Unlock Your Coding Potential**
-![B-station](assets/images/Online%20learning-cuate.svg)
+![B-station](assets/images/Online%20learning-cuate.svg | width=300)
 
 **Project:**
 
